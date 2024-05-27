@@ -18,6 +18,8 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Pipeline Architecture
+![Architecture]([https://github.com/srushtii-m/ETL-Analytics/blob/main/images/etl%20pipeline.png](https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/images/ETL%20pipeline.png))
+
 
 ## Data Model
 
