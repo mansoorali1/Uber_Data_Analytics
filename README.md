@@ -17,6 +17,8 @@ More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
+## Data Pipeline Architecture
+
 ## Data Model
 
 ## Dashboard
