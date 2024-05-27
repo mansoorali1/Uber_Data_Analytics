@@ -6,3 +6,7 @@ The goal of this project is to perform data analytics on Uber data using various
 2. Compute Instance
 3. BigQuery
 4. Looker Studio
+
+## Data
+
+## Data Model
