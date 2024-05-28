@@ -1,4 +1,4 @@
-# Uber_Data_Analytics
+# Uber Data Analytics | Data Engineering | End-to-End Project
 The goal of this project is to develop a complete data pipeline, guiding data from collection to insights through a series of structured stages.
 1. Extracted data, cleaned it and loaded into Google Cloud Storage for further processing.
 2. Transformed and modeled the data using fact and dimensional data modeling concepts using Python.
