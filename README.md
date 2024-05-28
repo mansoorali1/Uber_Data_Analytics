@@ -20,7 +20,6 @@ More info about dataset can be found here:
 ## Data Pipeline Architecture
 ![Architecture](https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/images/ETL%20pipeline.png)
 
-
 ## Data Model
 ![DataModel](https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/images/datamodel.png)
 
