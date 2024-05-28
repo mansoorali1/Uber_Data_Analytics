@@ -8,9 +8,8 @@ The goal of this project is to perform data analytics on Uber data using various
 5. Looker Studio
 ## Data
 TLC Trip Record Data
-Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
-
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+The data include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+Data:(https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/Data/uber_data.csv)
 
 More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
