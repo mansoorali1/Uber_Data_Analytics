@@ -29,3 +29,4 @@ More info about dataset can be found here:
 
 ## Dashboard
 ![Dashboard](https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/images/dashboard.png)
+[Dashboard Link](https://lookerstudio.google.com/reporting/94746c56-87ad-499e-b269-a43f8b79c12a)
