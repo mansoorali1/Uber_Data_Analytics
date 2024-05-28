@@ -28,3 +28,4 @@ More info about dataset can be found here:
 ![Mage_ETL](https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/images/mage%20etl.png)
 
 ## Dashboard
+![Dashboard](https://github.com/mansoorali1/Uber_Data_Analytics/blob/main/images/dashboard.png)
